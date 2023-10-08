@@ -7,7 +7,7 @@
 ![ExampleOutput](https://github.com/joebasset/TranslationScripts/assets/131170986/5ca13bb6-6c97-459b-beb3-7faa09374f5f)
 
 ### ExcelToJSON example file input:
-eaxmple.xlsx file
+example.xlsx file
 ### ExcelToJson example files output:
 ![ExampleOutput2](https://github.com/joebasset/TranslationScripts/assets/131170986/f17fc60a-6ff3-4cee-8250-c59fba5b8ee9)
 ![ExampleOutput3](https://github.com/joebasset/TranslationScripts/assets/131170986/8d32258a-a195-4c28-96cd-3862d4255908)
